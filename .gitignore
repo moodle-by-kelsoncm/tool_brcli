@@ -1,2 +1,4 @@
 # Ignore folder named 'bck'
 bck/
+
+docs/_build/
